@@ -44,5 +44,3 @@ Using Lavarel and Vue to build. This is essentially a learning project.
 - Vue.js
 
 ## Acknowledgements
-
-Thanks to @MakersAcademy for providing the challenge, and as always, google, for continuing to listen to all my many questions.
