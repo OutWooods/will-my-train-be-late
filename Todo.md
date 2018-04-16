@@ -1,6 +1,8 @@
 
 
+
 V1 (MVP)
+
 1) Create homepage - welcomes user
 2) Has a single page for a route - showing times for a train journey
 3) Has a homepage for four different route - linking to times for four different journeys 
@@ -24,3 +26,10 @@ V4 - Python/ML (Intelligent)
 2) Train a Model for one route 
 3) Make a special page for this one predictor
 4) Make calls to the SciKitLearn Model 
+
+
+Tasks
+
+[ ] Install composer
+
+[ ] Make hello world page
